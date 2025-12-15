@@ -16,9 +16,7 @@ The goal of this task is to practice:
 
 ## 📄 Description
 
-You are given a text file **`resevations.txt`** that contains one line per reservation.  
-You are also given a Python script **`read_resevations.py`** that reads the reservations from **`resevations.txt`**.  
-Fields are separated by the pipe character `|`.
+You are given a text file **`resevations.txt`** that contains one line per reservation. You are also given a Python script **`read_resevations.py`** that reads the reservations from **`resevations.txt`**. Fields are separated by the pipe character `|`.
 
 > [!TIP]
 > This way of structuring data is very common—and Python is great at handling it!
@@ -50,7 +48,8 @@ The line contains the following fields:
 
 1.  Copy the file **`resevations.txt`** into your own **Git repo** under the folder **`TaskA`**.
 2.  Copy the Python script **`read_resevations.py`** into your **Git repo** under the folder **`TaskA`**.
-3.  Modify the script so that, when executed, it prints the following output:
+3.  Rename the Python script file to **`task_a.py`**
+4.  Modify the script so that, when executed, it prints the following output:
 
 ```
 Reservation number: 123
@@ -75,8 +74,8 @@ Email: anna.virtanen@example.com
     resevation = resevation.split('|')
     ```
 
-    > [!NOTE]  
-    > If you don’t do the above, in the examples below `resevation[0]` is equivalent to `resevation.split('|')[0]`.
+> [!NOTE]  
+> If you don’t do the above, in the examples below `resevation[0]` is equivalent to `resevation.split('|')[0]`.
 
 *   Convert data types. A few examples:
 
@@ -117,17 +116,27 @@ Email: anna.virtanen@example.com
 
 Submit a **link to your GitHub repo** and a **screenshot of the console** showing the program execution and output.
 
+The folder structure of the Github repo must be as follows:
+
+```
+📁 Github Repo/
+├─ 📁 TaskA/
+   ├─ 🐍 task_a.py
+   └─ 📄 reservations.txt
+
+```
+
+
 Also include a short note:
 
 > What stood out to you most in this task?
 
 ---
 
-## 💬 Keep the good vibes while coding!
-
-**Remember:** every programmer starts somewhere.  
-What matters is not perfect code, but **learning, experimenting, and having insights**.  
-Have fun and explore how real things are really built! 🚀💡😎
+## 💬 Assessment Criteria (points):
+* **`0:`**  The program does not work and/or its structure has been significantly altered.
+* **`1:`** The program works, but the output does not meet the requirements, and the correct data types have not been used.
+* **`2:`** The program produces the required output and uses the correct data types. The program structure follows the given task.
 
 ---
 
