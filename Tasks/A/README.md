@@ -19,7 +19,7 @@ The goal of this task is to practice:
 You are given a text file **`resevations.txt`** that contains one line per reservation. You are also given a Python script **`read_resevations.py`** that reads the reservations from **`resevations.txt`**. Fields are separated by the pipe character `|`.
 
 > [!TIP]
-> This way of structuring data is very common—and Python is great at handling it!
+> This way of structuring data is very common — and Python is great at handling it!
 
 **Example line:**
 
@@ -133,8 +133,8 @@ Also include a short note:
 
 ---
 
-## 💬 Assessment Criteria (points):
-* **`0:`**  The program does not work and/or its structure has been significantly altered.
+## 💬 Grading Criteria (points):
+* **`0:`** The program does not work and/or its structure has been significantly altered. The file names are incorrect.
 * **`1:`** The program works, but the output does not meet the requirements, and the correct data types have not been used.
 * **`2:`** The program produces the required output and uses the correct data types. The program structure follows the given task.
 
