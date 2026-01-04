@@ -1,7 +1,7 @@
 > [!NOTE]
 > The material was created with the help of ChatGPT and Copilot.
 
-# 🐍 Processing a Reservation Line from a File
+# 🐍 Task A - Processing a Reservation Line from a File
 
 ## 🎯 Goal
 
