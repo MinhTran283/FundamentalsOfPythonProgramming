@@ -53,19 +53,19 @@ The line contains the following fields:
 3.  Rename the Python script file to **`task_a.py`**
 4.  Modify the script so that, when executed, it prints the following output:
 
-```
-Reservation number: 123
-Booker: Anna Virtanen
-Date: 31.10.2025
-Start time: 10.00
-Number of hours: 2
-Hourly price: 19,95 €
-Total price: 39,90 €
-Paid: Yes
-Location: Meeting Room A
-Phone: 0401234567
-Email: anna.virtanen@example.com
-```
+        ```
+        Reservation number: 123
+        Booker: Anna Virtanen
+        Date: 31.10.2025
+        Start time: 10.00
+        Number of hours: 2
+        Hourly price: 19,95 €
+        Total price: 39,90 €
+        Paid: Yes
+        Location: Meeting Room A
+        Phone: 0401234567
+        Email: anna.virtanen@example.com
+        ```
 ---
 
 ### 🧩 Tips
@@ -131,7 +131,7 @@ The folder structure of the Github repo must be as follows:
 
 Also include a short note:
 
-> What stood out to you most in this task?
+> What was the most memorable thing about this task?
 
 ---
 
