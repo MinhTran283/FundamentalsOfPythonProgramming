@@ -53,7 +53,7 @@ The line contains the following fields:
 3.  Rename the Python script file to **`task_a.py`**
 4.  Modify the script so that, when executed, it prints the following output:
 
-        ```
+
         Reservation number: 123
         Booker: Anna Virtanen
         Date: 31.10.2025
@@ -65,7 +65,10 @@ The line contains the following fields:
         Location: Meeting Room A
         Phone: 0401234567
         Email: anna.virtanen@example.com
-        ```
+
+> [!NOTE]  
+> All console output is emitted via print() calls scoped to main()
+
 ---
 
 ### 🧩 Tips
