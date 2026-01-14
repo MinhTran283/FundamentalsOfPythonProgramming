@@ -17,14 +17,14 @@ def date_conversation(date):
     return date
 
 def main():
-    #print(greet1())
-    #line = "123|Anna Virtanen|2025-11-30|10:00|2|19.95|True|Meeting Room A|0401234567|anna.virtanen@example.com"
-    #greet2(line)
-    #reservation = line.split('|')
-    #print(reservation[2])
-    #print(date_conversation(reservation[2]))
-    #converted_date = date_conversation(reservation[2])
-    #print(converted_date)
+    print(greet1())
+    line = "123|Anna Virtanen|2025-11-30|10:00|2|19.95|True|Meeting Room A|0401234567|anna.virtanen@example.com"
+    greet2(line)
+    reservation = line.split('|')
+    print(reservation[2])
+    print(date_conversation(reservation[2]))
+    converted_date = date_conversation(reservation[2])
+    print(converted_date)
     var1 = "word"
     var2 = "123"
     print("|", f"{var1:^8}", "|", f"{var2:>8}", "|")
