@@ -26,7 +26,7 @@ The goal of this task is to practice:
 
 
 ```
-123|Anna Virtanen|2025-10-31|10:00|2|19.95|True|Kokoustila A|0401234567|anna.virtanen@example.com
+123|Anna Virtanen|2025-10-31|10:00|2|19.95|True|Meeting Room A|0401234567|anna.virtanen@example.com
 ```
 
 ---
