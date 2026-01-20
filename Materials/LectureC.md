@@ -3,7 +3,7 @@
 
 # 💡 Python’s Official Style Guide → PEP 8
 
-PEP 8 is Python’s official *style guide*, which defines how Python code should be written to make it clear, readable, and consistent. The purpose of the guide is to make collaboration easier, reduce errors, and make code more professional.
+[PEP 8](https://peps.python.org/pep-0008/) is Python’s official *style guide*, which defines how Python code should be written to make it clear, readable, and consistent. The purpose of the guide is to make collaboration easier, reduce errors, and make code more professional.
 
 ## 🔑 Key Principles
 
