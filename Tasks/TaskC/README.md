@@ -253,7 +253,7 @@ Header:
 Format:
 
 ```
-Total revenue from confirmed reservations: 243,50 €
+Total revenue from confirmed reservations: xxx,yy €
 ```
 
 Note the comma in the amount:
