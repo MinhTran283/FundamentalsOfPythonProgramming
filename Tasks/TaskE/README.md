@@ -142,7 +142,6 @@ Example:
 
 ```python
 from datetime import datetime
-from typing import List, Dict
 
 def convert_time(time_str: str) -> datetime:
     """Converts an ISO-formatted timestamp string into a datetime object."""
@@ -156,7 +155,7 @@ def convert_time(time_str: str) -> datetime:
 At the top of the Python file, include:
 
 ```python
-# Copyright (c) 2025 Your Name
+# Copyright (c) 2026 Your Name
 # License: MIT
 ```
 
