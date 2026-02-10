@@ -185,10 +185,6 @@ if reservation.is_confirmed():
    * print confirmed reservations
    * print long reservations
    * calculate total revenue (depending on base code)
-10. At the **top of each file**, add a comment explaining:
-
-    * which approach the file uses
-    * why this approach is clearer than list-based indexing
 
 ---
 
