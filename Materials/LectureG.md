@@ -205,7 +205,7 @@ print(reservation["user"]["role"])
 admin
 ```
 
-Structured data is very common, for example in [JSON formats](https://fi.wikipedia.org/wiki/JSON).
+Structured data is very common, for example in [JSON formats](https://en.wikipedia.org/wiki/JSON).
 
 ***
 

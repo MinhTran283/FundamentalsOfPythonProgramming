@@ -1,4 +1,4 @@
-Aika;Kulutus vaihe 1 Wh;Kulutus vaihe 2 Wh;Kulutus vaihe 3 Wh;Tuotanto vaihe 1 Wh;Tuotanto vaihe 2 Wh;Tuotanto vaihe 3 Wh
+Time;Consumption phase 1 Wh;Consumption phase 2 Wh;Consumption phase 3 Wh;Production phase 1 Wh;Production phase 2 Wh;Production phase 3 Wh
 2025-10-06T00:00:00;442;112;27;0;0;0
 2025-10-06T01:00:00;461;103;27;0;0;0
 2025-10-06T02:00:00;464;108;27;0;0;0
